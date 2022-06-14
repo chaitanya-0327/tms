@@ -1,0 +1,12 @@
+G:\RLL\training_management_system\tms_lib\bin\Debug\net6.0\tms_lib.deps.json
+G:\RLL\training_management_system\tms_lib\bin\Debug\net6.0\tms_lib.dll
+G:\RLL\training_management_system\tms_lib\bin\Debug\net6.0\ref\tms_lib.dll
+G:\RLL\training_management_system\tms_lib\bin\Debug\net6.0\tms_lib.pdb
+G:\RLL\training_management_system\tms_lib\obj\Debug\net6.0\tms_lib.csproj.AssemblyReference.cache
+G:\RLL\training_management_system\tms_lib\obj\Debug\net6.0\tms_lib.GeneratedMSBuildEditorConfig.editorconfig
+G:\RLL\training_management_system\tms_lib\obj\Debug\net6.0\tms_lib.AssemblyInfoInputs.cache
+G:\RLL\training_management_system\tms_lib\obj\Debug\net6.0\tms_lib.AssemblyInfo.cs
+G:\RLL\training_management_system\tms_lib\obj\Debug\net6.0\tms_lib.csproj.CoreCompileInputs.cache
+G:\RLL\training_management_system\tms_lib\obj\Debug\net6.0\tms_lib.dll
+G:\RLL\training_management_system\tms_lib\obj\Debug\net6.0\ref\tms_lib.dll
+G:\RLL\training_management_system\tms_lib\obj\Debug\net6.0\tms_lib.pdb

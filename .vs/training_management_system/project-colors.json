@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5e3c55cb-30f0-46fa-aa1c-976f549a0cb4": {
+      "ProjectGuid": "5e3c55cb-30f0-46fa-aa1c-976f549a0cb4",
+      "DisplayName": "training_management_system",
+      "ColorIndex": 0
+    },
+    "2197feac-7707-4457-8eb1-26eb56e8ea1a": {
+      "ProjectGuid": "2197feac-7707-4457-8eb1-26eb56e8ea1a",
+      "DisplayName": "tms_lib",
+      "ColorIndex": 1
+    },
+    "41fb21da-3405-4b33-b7fe-0c5d8174bb54": {
+      "ProjectGuid": "41fb21da-3405-4b33-b7fe-0c5d8174bb54",
+      "DisplayName": "tms_testing",
+      "ColorIndex": 2
+    },
+    "75714e9b-58fc-4a6d-8cac-06c8b458d11c": {
+      "ProjectGuid": "75714e9b-58fc-4a6d-8cac-06c8b458d11c",
+      "DisplayName": "tms_unittesting",
+      "ColorIndex": 3
+    },
+    "286ba033-805f-45bd-b43b-c5a3e6733007": {
+      "ProjectGuid": "286ba033-805f-45bd-b43b-c5a3e6733007",
+      "DisplayName": "tms_unittest",
+      "ColorIndex": 4
+    },
+    "ab5dbab9-733d-4ecd-81c7-24a96f647697": {
+      "ProjectGuid": "ab5dbab9-733d-4ecd-81c7-24a96f647697",
+      "DisplayName": "tms_webapi",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}
